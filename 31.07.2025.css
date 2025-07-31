@@ -1,0 +1,32 @@
+* {
+    background-color: yellow;
+}
+#menu{
+    color: red;
+    text-align: left;
+}
+#colegiu{
+    color: blue;
+    font-family: 'cursive';
+    text-align: center;
+}
+#serviciu{
+    color: green;
+    text-align: right;
+}
+h1{
+    color: brown; 
+    text-align: left;
+}
+h2{
+    color: coral; 
+    font-family: cursive; 
+    text-align: center;
+}
+h3{
+    color: white; 
+    text-align: right;
+}
+a{
+    color: red;
+}
